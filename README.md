@@ -24,7 +24,3 @@ Authentication is implemented using **JWT (JSON Web Token)** and password securi
 - **JWT (jsonwebtoken)**
 - **bcrypt**
 - **dotenv**
-
-
-# 3️⃣ Install dependencies
-npm install
